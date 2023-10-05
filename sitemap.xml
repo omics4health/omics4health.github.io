@@ -6,10 +6,6 @@
     <lastmod>2023-08-16T23:21:28-07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://omics4health.github.io/event/example/</loc>
-    <lastmod>2023-08-16T23:21:28-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://omics4health.github.io/event/example2/</loc>
     <lastmod>2023-08-16T23:21:28-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://omics4health.github.io/event/example4/</loc>
+    <lastmod>2023-08-16T23:21:28-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://omics4health.github.io/event/example/</loc>
     <lastmod>2023-08-16T23:21:28-07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
