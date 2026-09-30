@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | omics4health</title>
-    <link>http://omics4health.github.io/publication_types/</link>
-      <atom:link href="http://omics4health.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://omics4health.github.io/publication_types/</link>
+      <atom:link href="https://omics4health.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://omics4health.github.io/media/logo_hu3c235109424183fe1a614df509ed12a9_49604_300x300_fit_lanczos_3.png</url>
+      <url>https://omics4health.github.io/media/logo_hu3c235109424183fe1a614df509ed12a9_49604_300x300_fit_lanczos_3.png</url>
       <title>Publication_types</title>
-      <link>http://omics4health.github.io/publication_types/</link>
+      <link>https://omics4health.github.io/publication_types/</link>
     </image>
     
   </channel>

@@ -2,8 +2,8 @@
   "name": "omics4health",
   "short_name": "omics4health",
   "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "#fff",
+  "background_color": "#fff",
   "icons": [{
     "src": "/media/icon_hua58356cff94e905f6cae3d32d1de0a4d_142633_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",

@@ -2,66 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://omics4health.github.io/</loc>
+    <loc>https://omics4health.github.io/event/2026-11-04-zhi-luo-deng/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://omics4health.github.io/event/2026-09-29-qi-su/</loc>
+    <lastmod>2026-09-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://omics4health.github.io/admin/</loc>
+    <lastmod>2023-08-15T20:48:24-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://omics4health.github.io/</loc>
     <lastmod>2023-10-11T21:17:31-07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://omics4health.github.io/authors/</loc>
-    <lastmod>2023-10-11T20:52:25-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://omics4health.github.io/event/example/</loc>
-    <lastmod>2023-10-11T20:52:25-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://omics4health.github.io/categories/</loc>
-    <lastmod>2023-08-15T20:48:24-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://omics4health.github.io/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2023-08-15T20:48:24-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://omics4health.github.io/tag/plot/</loc>
-    <lastmod>2023-08-15T20:48:24-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://omics4health.github.io/category/r/</loc>
-    <lastmod>2023-08-15T20:48:24-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://omics4health.github.io/tag/r-markdown/</loc>
-    <lastmod>2023-08-15T20:48:24-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://omics4health.github.io/tag/regression/</loc>
-    <lastmod>2023-08-15T20:48:24-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://omics4health.github.io/tags/</loc>
-    <lastmod>2023-08-15T20:48:24-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://omics4health.github.io/admin/</loc>
-    <lastmod>2023-08-15T20:48:24-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://omics4health.github.io/event/</loc>
+    <loc>https://omics4health.github.io/authors/</loc>
     <lastmod>2023-10-11T20:43:44-07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://omics4health.github.io/post/</loc>
-    <lastmod>2023-08-15T20:48:24-07:00</lastmod>
+    <loc>https://omics4health.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://omics4health.github.io/publication_types/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://omics4health.github.io/author/wubing-zhang/</loc>
+    <loc>https://omics4health.github.io/contact/</loc>
     <lastmod>2023-10-11T20:43:44-07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://omics4health.github.io/author/xiaotao-shen/</loc>
+    <loc>https://omics4health.github.io/post/</loc>
+    <lastmod>2023-08-15T20:48:24-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://omics4health.github.io/event/past/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://omics4health.github.io/publication_types/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://omics4health.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://omics4health.github.io/team/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://omics4health.github.io/event/</loc>
+    <lastmod>2023-10-11T20:43:44-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://omics4health.github.io/author/wubing-zhang/</loc>
+    <lastmod>2023-10-11T20:43:44-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://omics4health.github.io/author/xiaotao-shen/</loc>
     <lastmod>2023-10-11T20:43:44-07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

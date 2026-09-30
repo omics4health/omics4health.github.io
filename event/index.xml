@@ -1,34 +1,127 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events | omics4health</title>
-    <link>http://omics4health.github.io/event/</link>
-      <atom:link href="http://omics4health.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Events</description>
+    <title>Upcoming | omics4health</title>
+    <link>https://omics4health.github.io/event/</link>
+      <atom:link href="https://omics4health.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Upcoming</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>http://omics4health.github.io/media/logo_hu3c235109424183fe1a614df509ed12a9_49604_300x300_fit_lanczos_3.png</url>
-      <title>Events</title>
-      <link>http://omics4health.github.io/event/</link>
-    </image>
+    <item>
+      <title>Metax enables accurate cross-domain taxonomic profiling of metagenomes</title>
+      <link>https://omics4health.github.io/event/2026-11-04-zhi-luo-deng/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://omics4health.github.io/event/2026-11-04-zhi-luo-deng/</guid>
+      <description>&lt;p&gt;This session will focus on &lt;strong&gt;Metax enables accurate cross-domain taxonomic profiling of metagenomes&lt;/strong&gt;, a study published in &lt;em&gt;Cell&lt;/em&gt;. The paper title is used here as the session topic.&lt;/p&gt;
+&lt;p&gt;本期报告将围绕这篇 &lt;em&gt;Cell&lt;/em&gt; 论文展开，目前以论文题目作为活动主题。&lt;/p&gt;
+&lt;h2 id=&#34;speaker--报告人&#34;&gt;Speaker / 报告人&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Zhi-Luo Deng, PhD&lt;/strong&gt;&lt;br&gt;
+Helmholtz Centre for Infection Research, Germany&lt;/p&gt;
+&lt;p&gt;His work focuses on bioinformatics and the human microbiome, including metagenomic and metatranscriptomic analysis. He is the first author of the featured Metax study.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dawnmy.github.io/CV/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Speaker CV / 讲者简历&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;featured-paper--本期论文&#34;&gt;Featured paper / 本期论文&lt;/h2&gt;
+&lt;p&gt;Zhi-Luo Deng, Nasim Safaei and Alice Carolyn McHardy. &lt;strong&gt;Metax enables accurate cross-domain taxonomic profiling of metagenomes.&lt;/strong&gt; &lt;em&gt;Cell&lt;/em&gt; (2026). DOI: &lt;strong&gt;10.1016/j.cell.2026.08.024&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Metax uses the distribution of sequencing reads across reference genomes to help distinguish genuine microbial signals from false positives and improve estimates of community composition. This session will center on the study and its approach to metagenomic analysis.&lt;/p&gt;
+&lt;p&gt;Metax 利用测序序列在参考基因组上的覆盖分布，帮助区分真实微生物信号与假阳性，提高物种鉴定及丰度估计的准确性。本期将围绕这一研究及其宏基因组分析方法展开交流。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cell.com/cell/fulltext/S0092-8674%2826%2900997-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the paper in Cell / 论文原文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.cell.2026.08.024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.helmholtz-hzi.de/en/media-center/newsroom/news-detail/a-clearer-picture-of-microbial-communities-metax-improves-taxonomic-profiling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HZI research announcement / 研究机构介绍&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;joining-the-seminar--参会方式&#34;&gt;Joining the seminar / 参会方式&lt;/h2&gt;
+&lt;p&gt;The online meeting link will be announced here when available.&lt;/p&gt;
+&lt;p&gt;会议链接及参会信息将于确认后在本页公布。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
-      <title>Example Event new</title>
-      <link>http://omics4health.github.io/event/example/</link>
-      <pubDate>Thu, 05 Oct 2023 13:00:00 +0000</pubDate>
-      <guid>http://omics4health.github.io/event/example/</guid>
-      <description>&lt;h1 id=&#34;youtube&#34;&gt;Youtube&lt;/h1&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;500&#34; src=&#34;https://www.youtube.com/embed/dwmW18H1vk4?si=YA58peRpty-TV6W4&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h1 id=&#34;bilibili&#34;&gt;Bilibili&lt;/h1&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;500&#34; src=&#34;//player.bilibili.com/player.html?aid=234359811&amp;bvid=BV1S8411r7FM&amp;cid=1289463658&amp;p=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+      <title>Mechanistic Exploration of Faecalibacterium prausnitzii in Alleviating Insomnia</title>
+      <link>https://omics4health.github.io/event/2026-09-29-qi-su/</link>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://omics4health.github.io/event/2026-09-29-qi-su/</guid>
+      <description>&lt;p&gt;The first session of the &lt;strong&gt;Young Investigators in Microbiome and Health&lt;/strong&gt; academic seminar series was held online on 29 September 2026, with a talk by &lt;strong&gt;Qi Su&lt;/strong&gt; from The Chinese University of Hong Kong.&lt;/p&gt;
+&lt;h2 id=&#34;session-details--活动信息&#34;&gt;Session details / 活动信息&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;报告题目：&lt;/strong&gt; 普拉梭菌缓解失眠的机制探索&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;报告人 / Speaker：&lt;/strong&gt; 苏奇（Qi Su）博士，香港中文大学内科及药物治疗学系助理教授、博士生导师&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;时间 / Date &amp;amp; time：&lt;/strong&gt; 2026 年 9 月 29 日（周二），19:00–21:00（UTC+8）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;形式 / Format：&lt;/strong&gt; 腾讯会议（Tencent Meeting），线上报告&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主持人 / Hosts：&lt;/strong&gt; 焦娜（Na Jiao），复旦大学青年研究员；彭也（Ye Peng），香港中文大学研究助理教授&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;系列 / Series：&lt;/strong&gt; 微生物组与健康青年学者联盟 · 青年学者学术交流系列，第一期&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;h2 id=&#34;speaker--报告人简介&#34;&gt;Speaker / 报告人简介&lt;/h2&gt;
+&lt;p&gt;苏奇，香港中文大学内科及药物治疗学系助理教授、博士生导师，研究方向为肠脑轴及粪菌移植。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mect.cuhk.edu.hk/people/qisu.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University profile / 大学主页&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract--报告摘要&#34;&gt;Abstract / 报告摘要&lt;/h2&gt;
+&lt;p&gt;以下为本期海报所载报告摘要。&lt;/p&gt;
+&lt;p&gt;失眠常伴随肠道菌群失调，但介导肠-脑通讯的特定微生物代谢物仍不明确。本研究整合了171名受试者（原发性失眠、新冠后失眠及对照）的宏基因组测序、功能通路分析与临床前验证，发现两种失眠亚型均存在普拉梭菌（&lt;em&gt;Faecalibacterium prausnitzii&lt;/em&gt;）耗竭和L-精氨酸生物合成下降，并伴有皮质醇水平升高。基因组与体外分析证实，&lt;em&gt;F. prausnitzii&lt;/em&gt; 是L-精氨酸产生的关键微生物贡献者。在慢性轻度应激小鼠模型中，补充 &lt;em&gt;F. prausnitzii&lt;/em&gt; 或L-精氨酸均可恢复睡眠时长、正常化皮质酮水平，并逆转应激诱导的肠道菌群失调。机制上，L-精氨酸可抑制POMC基因表达，并减弱ACTH刺激的皮质酮释放，提示POMC-ACTH-皮质醇轴是关键作用靶点。该研究揭示了一条由 &lt;em&gt;F. prausnitzii&lt;/em&gt; 衍生L-精氨酸驱动、经内分泌信号调节睡眠的肠-脑轴通路，为失眠提供了潜在的代谢物治疗策略。&lt;/p&gt;
+&lt;h2 id=&#34;event-poster--活动海报&#34;&gt;Event poster / 活动海报&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;第一期活动海报：苏奇报告“普拉梭菌缓解失眠的机制探索”&#34; srcset=&#34;
+               /event/2026-09-29-qi-su/poster_huda224c601e284a572eadb0f20913cd9d_8430028_373b1edb2f125169ee9ab776abbc83c0.webp 400w,
+               /event/2026-09-29-qi-su/poster_huda224c601e284a572eadb0f20913cd9d_8430028_1a18eb2f80d280d87c477db80b96ecac.webp 760w,
+               /event/2026-09-29-qi-su/poster_huda224c601e284a572eadb0f20913cd9d_8430028_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://omics4health.github.io/event/2026-09-29-qi-su/poster_huda224c601e284a572eadb0f20913cd9d_8430028_373b1edb2f125169ee9ab776abbc83c0.webp&#34;
+               width=&#34;563&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;session-snapshot--交流现场&#34;&gt;Session snapshot / 交流现场&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;2026年9月29日第一期线上学术交流的腾讯会议截图&#34; srcset=&#34;
+               /event/2026-09-29-qi-su/session_hu84657430af365bdf9a59e5fe169081af_246126_2036b4e5b94d8b44cb50a304a084197f.webp 400w,
+               /event/2026-09-29-qi-su/session_hu84657430af365bdf9a59e5fe169081af_246126_1c37d3bdd3cd00992e4468dae90baead.webp 760w,
+               /event/2026-09-29-qi-su/session_hu84657430af365bdf9a59e5fe169081af_246126_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://omics4health.github.io/event/2026-09-29-qi-su/session_hu84657430af365bdf9a59e5fe169081af_246126_2036b4e5b94d8b44cb50a304a084197f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;363&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;本页海报与会议截图由论坛组织者提供。&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Past</title>
+      <link>https://omics4health.github.io/event/past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://omics4health.github.io/event/past/</guid>
+      <description></description>
     </item>
     
   </channel>
